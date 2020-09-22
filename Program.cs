@@ -16,7 +16,7 @@ namespace prak4_02_upr02
       while (stack.Count > 0)
       {
         object obj = stack.Pop();
-        Console.WriteLine("'From Stack: {0}", obj);
+        Console.WriteLine("From Stack: {0}", obj);
       }
 
     }
